@@ -1,0 +1,16 @@
+Hi,
+When Linus Torvalds was studying at the University of Helsinki, he was using a version of the UNIX operating system called 'Minix'. Linus and other users sent requests for modifications and improvements to Minix's creator, Andrew Tanenbaum, but he felt that they weren't necessary. That's when Linus decided to create his own operating system that would take into account users' comments and suggestions for improvements.
+
+Linux Distributions
+Following are the Linux distributions.
+	Redhat Linux
+	Ubuntu.
+	CentOS
+	SuSe Linux
+	Debian.
+	Fedora
+	Gentoo
+	Mandriva.
+	Slackware
+
+Download different Flavours of Linux distributions
